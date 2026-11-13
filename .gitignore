@@ -1,0 +1,7 @@
+*.hex
+*.lnp
+*.M51
+*.OBJ
+*.LST
+*.uvopt
+*.uvgui*
